@@ -3,7 +3,7 @@
 ### Carrera de Ingeniería en Software  
 
 **Asignatura:** Manejo y Configuración de Software  
-**Nombre del Estudiante:** Viviana Sarco  
+**Nombre del Estudiante:** Viviana Maribel Sarco Sailema
 **Fecha:** 30/04/2025 
 
 ---
