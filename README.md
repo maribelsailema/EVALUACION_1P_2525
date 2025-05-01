@@ -96,7 +96,9 @@ y se verifico con el git status.
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu respuesta completa a la Pregunta 3 -->
+Se utilizo el comando git flow init en la cual se crea la rama main y develop por defecto.
+ingresamos al develop con el checkout y despues le creamos un feature con el git branch feature/ingresar-encabezado
+realizamos el cambio correspondiente y lo fusionamos con el develop con uso del git merge feature/ingresar-encabezado y tambien fusionamos develop con main y finalmente eliminamos las ramas para evira conflictos.
 
 ---
 
