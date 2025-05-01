@@ -131,7 +131,6 @@ realizamos el cambio correspondiente y lo fusionamos con el develop con uso del 
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu respuesta completa a la Pregunta 4 -->
 
 ---
 
